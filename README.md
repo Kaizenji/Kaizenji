@@ -38,7 +38,7 @@
 
 ### 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="https://github.com/kaizenji/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXtFZ438bHV5dOJ4Z8HovJg3duW8TU8BKHyA&usqp=CAU" alt="GitHub"/></a>
+	<a href="https://github.com/kaizenji/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://instagram.com/_jzsync/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	
 </p>
