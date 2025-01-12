@@ -45,5 +45,4 @@
 
 
 
-* Credit: Kaizenji
-* Last Edited on: 05/26/2024
+* Credits: Kaizenji
