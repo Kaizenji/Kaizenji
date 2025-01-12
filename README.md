@@ -40,8 +40,6 @@
 <p align="center">
 	<a href="https://github.com/kaizenji/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://m.facebook.com/known.as.kaizenji"><img src="https://img.icons8.com/bubbles/50/000000/facebook.png" alt="Facebook"/></a>
-
- <a href="m.me/known.as.kaizenji"><img src="https://img.icons8.com/bubbles/50/000000/messenger.png" alt="Messenger"/></a>
 	
 </p>
 
