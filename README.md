@@ -6,7 +6,7 @@
   <a href="https://github.com/khrlmstfa/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Im+just+noob;but+I+will+keep+learning;Lets+study+together+(⁠ ⁠˘⁠ ⁠³⁠˘⁠)&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center">const noob = required('me');</h4>
+<h4 align="center">const noob = require('me');</h4>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=KhrlMstfa&label=Profile%20views&color=0e75b6&style=plastic" alt="khrlmstfa" /> </p>
 
